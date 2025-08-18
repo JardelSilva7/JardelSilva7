@@ -4,7 +4,7 @@
 <div>
   <a href= "https://github.com/JardelSilva7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva7&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark#gh-dark-mode-only">
 
 
 <div style="display: inline_block"><br>
