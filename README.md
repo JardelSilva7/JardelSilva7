@@ -25,4 +25,4 @@ src="https://discordapp.com/channels/1112882248765681819/1112887585258352648/140
   <a href = "email:jardeldasilva023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jardeldasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-![Snake animation](https://github.com/JardelSilva7/JardelSilva7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JardelSilva7/JardelSilva7/blob/output/dist/github-contribution-grid-snake.svg)
