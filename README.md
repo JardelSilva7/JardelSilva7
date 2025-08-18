@@ -4,7 +4,7 @@
 <div>
   <a href= "https://github.com/JardelSilva7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva7&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JardelSilva7&layout=pie&theme=dark#gh-dark-mode-only">
 
 
 <div style="display: inline_block"><br>
@@ -14,8 +14,8 @@
   <img align="center" alt="Jardel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jardel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jardel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align=right alt="Jardel-Sheldon"
-src="https://discordapp.com/channels/1112882248765681819/1112887585258352648/1407131439291437206/">
+  <img align=right alt="Sheldon"
+src="https://discordapp.com/channels/1112882248765681819/1112887585258352648/1407131439291437206">
 </div>
   
   ##
