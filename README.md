@@ -15,7 +15,6 @@
   <img align="center" alt="Jardel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jardel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align=right alt="Sheldon"
-src="https://discordapp.com/channels/1112882248765681819/1112887585258352648/1407131439291437206">
 </div>
   
   ##
@@ -27,7 +26,7 @@ src="https://discordapp.com/channels/1112882248765681819/1112887585258352648/140
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JardelSilva7/JardelSilva7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JardelSilva7/JardelSilva7/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JardelSilva7/JardelSilva7/output/github-contribution-grid-snake-dark.svg">
 </picture> 
