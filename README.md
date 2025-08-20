@@ -1,6 +1,11 @@
 ## Eae! Eu sou o Jardel Silva
 
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
+- 🦸​ Aqui compartilho projetos de estudo em Java, JavaScript, Python, CSS e C#, aplicando conceitos de desenvolvimento web e software.
+
+## 🚀 Projetos em destaque
+- [🧮 Calculadora Web]( ) → HTML, CSS e JS, aplicando fundamentos de front-end.
+- 
 <div>
   <a href= "https://github.com/JardelSilva7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JardelSilva7&show_icons=true&theme=dark#gh-dark-mode-only">
@@ -14,14 +19,14 @@
   <img align="center" alt="Jardel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jardel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jardel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align=right alt="Sheldon"
+
 </div>
   
   ##
  
 <div> 
   <a href="https://instagram.com/lekkzw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "malito:jardeldasilva023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jardeldasilva023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jardeldasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
