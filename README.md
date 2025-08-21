@@ -4,7 +4,7 @@
 - 🦸​ Aqui compartilho projetos de estudo em Java, JavaScript, Python, CSS e C#, aplicando conceitos de desenvolvimento web e software.
 
 ## 🚀 Projetos em destaque
-- [🧮 Calculadora Web]( ) → HTML, CSS e JS, aplicando fundamentos de front-end.
+- [🧮 Calculadora Web](https://jardelsilva7.github.io/Calculadora/) → HTML, CSS e JS, aplicando fundamentos de front-end.
 - 
 <div>
   <a href= "https://github.com/JardelSilva7">
